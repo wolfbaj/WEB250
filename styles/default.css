@@ -1,8 +1,20 @@
-body
-{
-  margin: 300px;
-  font-family: papyrus;
-  color: blue;
-  background-color: white;
-  font-size: 100%;
-}
+body {text-align: center;
+		color: blue;
+		background: white;}
+nav a {list-style-type: none;
+		display: inline;
+		font-weight: bold;
+		text-align: center;}
+h2 {text-align: center;}
+.sub {text-align: left;}
+.wrapper {width: 750px;
+		margin-left: auto;
+		margin-right: auto;}
+.text {text-indent: 5em;
+		line-height: 200%;
+		font-size: large;
+		text-align: left;}
+p {line-height: 200%;
+	font-size: large;}
+#survey {text-align: left;
+		width: 50%;}
