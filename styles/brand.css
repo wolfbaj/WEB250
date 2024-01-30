@@ -1,25 +1,26 @@
 *{
-	background-color: #0FA3B1;
-	color: #B5E2FA;
+	background-color: #5FA8D3;
+	color: #EAE8FF;
 	font-family: ;
 }
 body{
 	
 }
-head{
-	
-}
 header{
 	text-align: center;
+	background-color: #1B4965;
 }
 nav{
-	
+	background-color: #62B6CB;
 }
 nav a{
-	
+	color: blue;
 }
 div{
 
+}
+.top{
+	background-color: #1B4965;
 }
 .rectangle{
 	background-color: purple;
@@ -28,14 +29,14 @@ div{
 	margin: auto;
 }
 h1{
-	
+	color: #CAE9FF;
 }
 h2{
-	
+	color: #BEE9E8;
 }
 p{
 	
 }
 footer{
-	
+	text-align: center;
 }
