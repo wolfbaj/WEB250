@@ -1,7 +1,8 @@
 *{
 	background-color: #5FA8D3;
 	color: #EAE8FF;
-	font-family: ;
+	font-family: Palantino;
+	box-sizing: border-box;
 }
 body{
 	
@@ -30,6 +31,7 @@ div{
 }
 h1{
 	color: #CAE9FF;
+	font-family: Georgia;
 }
 h2{
 	color: #BEE9E8;
@@ -37,6 +39,10 @@ h2{
 p{
 	
 }
+a{
+	margin: auto;
+}
 footer{
 	text-align: center;
+	margin: auto;
 }
