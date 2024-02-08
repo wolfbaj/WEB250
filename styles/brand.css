@@ -1,12 +1,16 @@
 *{
-	background-color: #5FA8D3;
 	color: #EAE8FF;
 	font-family: Palantino;
 	box-sizing: border-box;
-
+	margin: auto;
 }
 body{
-	
+	min-width: 600px;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #5FA8D3;
+	padding: auto;
 }
 header{
 	text-align: center;
@@ -14,21 +18,17 @@ header{
 }
 nav{
 	background-color: #62B6CB;
+	border: 1px solid;
+	margin: auto;
+	font-size: 18px;
 }
 nav a{
 	color: blue;
+	padding: 10px;
 }
 div{
-
-}
-.top{
 	background-color: #1B4965;
-}
-.rectangle{
-	background-color: purple;
-	height: 100px;
-	width: 200px;
-	margin: auto;
+	padding: 40px;
 }
 h1{
 	color: #CAE9FF;
@@ -37,11 +37,19 @@ h1{
 h2{
 	color: #BEE9E8;
 }
+h3{
+	text-align:center;
+	color: #BEE9E8;
+}
 p{
-	
+	margin: auto;
+	font-size: 16px;
+	width: 100%;
+	text-align: left;
 }
 a{
 	margin: auto;
+	padding: 10px;
 }
 footer{
 	text-align: center;
