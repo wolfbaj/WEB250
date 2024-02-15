@@ -21,10 +21,16 @@ nav{
 	border: 1px solid;
 	margin: auto;
 	font-size: 18px;
+	padding: 10px;
 }
 nav a{
 	color: blue;
 	padding: 10px;
+	margin: auto;
+}
+main{
+	background-color: #1B4965;
+	padding: 40px;
 }
 div{
 	background-color: #1B4965;
@@ -49,7 +55,20 @@ p{
 }
 a{
 	margin: auto;
+	padding: auto;
+	color: #5FA8D3
+}
+a:link{
+	text-decoration: none;
+	color: #EAE8FF;
+}
+a:visited{
+	text-decoration: none;
+	color: #EAE8FF;
+}
+img{
 	padding: 10px;
+	margin:auto;
 }
 footer{
 	text-align: center;
