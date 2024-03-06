@@ -9,7 +9,7 @@ body{
 	max-width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #5FA8D3;
+	background-color: #375fab;
 	padding: auto;
 }
 header{
@@ -17,14 +17,14 @@ header{
 	background-color: #1B4965;
 }
 nav{
-	background-color: #62B6CB;
+	background-color: #325157;
 	border: 1px solid;
 	margin: auto;
 	font-size: 18px;
 	padding: 10px;
+	text-align: center;
 }
 nav a{
-	color: blue;
 	padding: 10px;
 	margin: auto;
 }
@@ -37,15 +37,16 @@ div{
 	padding: 40px;
 }
 h1{
-	color: #CAE9FF;
+	color: #70dafa;
 	font-family: Georgia;
+	padding: 5px;
 }
 h2{
-	color: #BEE9E8;
+	color: #74dbd9;
 }
 h3{
 	text-align:center;
-	color: #BEE9E8;
+	color: #74dbd9;
 }
 p{
 	margin: auto;
@@ -54,9 +55,11 @@ p{
 	text-align: left;
 }
 a{
+	text-decoration: none;
+	color: #5FA8D3;
 	margin: auto;
-	padding: auto;
-	color: #5FA8D3
+	text-align: center;
+	
 }
 a:link{
 	text-decoration: none;
@@ -69,6 +72,25 @@ a:visited{
 img{
 	padding: 10px;
 	margin:auto;
+	text-align: center;
+
+}
+.validation{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	display: flex;
+	justify-content:center;
+}
+figure{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	font-size: 18px;
+}
+figcaption{
+	text-align: center;
+	margin: auto;
 }
 footer{
 	text-align: center;

@@ -1,6 +1,6 @@
-<main>
+
 <p>
-	I, <a href="?p=introduction.php">Alston J. Brackett</a> agree to abide by the terms of the course contract in my spring 2024 semester,
+	I, <a href="index.php?page=introduction">Alston J. Brackett</a> agree to abide by the terms of the course contract in my spring 2024 semester,
 	WEB250 with my instructor, Professor D.I. von Briesen.
 </p>
 <p>
@@ -20,4 +20,3 @@
 <p>
 	Signed: <i>Alston J. Brackett, 01/17/2024</i>
 </p>
-</main>

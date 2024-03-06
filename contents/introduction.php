@@ -1,5 +1,5 @@
-<main>
-<h2>Introductions - Alston Brackett</h2>
+
+<h2>Introduction - Alston Brackett</h2>
 <figure>
 	<img src="images/kingsmountainphoto.jpg" alt="profile picture">
 	<figcaption> family photo of me at Kings Mountain </figcaption>
@@ -16,9 +16,8 @@
 	that I am running on windows 10 and I have a laptop that runs windows 8.</li>
 	<li><strong>Courses I'm Taking & Why:</strong>
 	<ul>
-		<li><a href="?p=contract.php">WEB250-N801 Database Driven Websites</a>: one of two remaining classes for my degree.</li>
+		<li><a href="index.php?page=contract">WEB250-N801 Database Driven Websites</a>: one of two remaining classes for my degree.</li>
 		<li>CSC285-N801 JAVA Enterprise Programs: The other class that is required for me to finish and to gain more coding experience.</li>
 	</ul></li>
 	<li><strong>Funny/Interesting Item to Remember me by:</strong> I can play many instruments such as: banjo, violin, and guitar.</li>
 </ul>
-</main>
