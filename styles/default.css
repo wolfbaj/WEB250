@@ -30,11 +30,7 @@ nav a{
 }
 main{
 	background-color: #1B4965;
-	padding: 40px;
-}
-div{
-	background-color: #1B4965;
-	padding: 40px;
+	padding: 0px 40px 20px;
 }
 h1{
 	color: #70dafa;
@@ -47,6 +43,7 @@ h2{
 h3{
 	text-align:center;
 	color: #74dbd9;
+	padding: 10px
 }
 p{
 	margin: auto;
@@ -82,11 +79,18 @@ img{
 	display: flex;
 	justify-content:center;
 }
+
+.alignLeft{
+	padding: 10px 40px;
+	margin: auto;
+	text-align: left;
+}
 figure{
 	text-align: center;
 	margin: auto;
 	padding: 10px;
 	font-size: 18px;
+	background-color: #1B4965;
 }
 figcaption{
 	text-align: center;
