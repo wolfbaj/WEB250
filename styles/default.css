@@ -35,15 +35,14 @@ main{
 h1{
 	color: #70dafa;
 	font-family: Georgia;
-	padding: 5px;
+	padding: 15px;
 }
 h2{
 	color: #74dbd9;
 }
 h3{
-	text-align:center;
+	background-color: #1B4965;
 	color: #74dbd9;
-	padding: 10px
 }
 p{
 	margin: auto;
@@ -85,10 +84,28 @@ img{
 	margin: auto;
 	text-align: left;
 }
+.alignLeftMain{
+	padding-top: 10px;
+	margin: auto;
+	text-align: left;
+}
+.alignLeftIndex{
+	padding-left: 40px;
+	padding-top: 10px;
+	margin: auto;
+	text-align: left;
+}
+
+.alignCenter{
+	padding-top: 10px;
+	margin: auto;
+	text-align: center;
+}
+
 figure{
 	text-align: center;
 	margin: auto;
-	padding: 10px;
+	padding: 15px;
 	font-size: 18px;
 	background-color: #1B4965;
 }
@@ -97,6 +114,7 @@ figcaption{
 	margin: auto;
 }
 footer{
+	background-color: #1B4965;
 	text-align: center;
 	margin: auto;
 }

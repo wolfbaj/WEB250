@@ -1,5 +1,3 @@
-
-<h2>Introduction - Alston Brackett</h2>
 <figure>
 	<img src="images/kingsmountainphoto.jpg" alt="profile picture">
 	<figcaption> family photo of me at Kings Mountain </figcaption>

@@ -1,7 +1,10 @@
 
-<h2>"Pratical PCs for practical needs"</h2>
-<p>Here at BPB we strive to provide you the customer with the pc build that you need for the purpose that you require.</p>
-<h3>Design Elements</h3>
+<h2 class="alignCenter">Brackett's PC Builders</h2>
+<h3 class="alignCenter">To build the pc you need</h3>
+
+<h3 class="alignLeftMain">"Practical PCs for practical needs"</h3>
+<p>Here at BPCB we strive to provide you the customer with the pc build that you need for the purpose that you require.</p>
+<h3 class="alignCenter">Design Elements</h3>
 <ul>
 	<li>defaults</li>
 	<ul>
