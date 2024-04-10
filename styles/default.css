@@ -27,6 +27,7 @@ nav{
 nav a{
 	padding: 10px;
 	margin: auto;
+	color: #EAE8FF;
 }
 main{
 	background-color: #1B4965;
@@ -52,11 +53,12 @@ p{
 }
 a{
 	text-decoration: none;
-	color: #5FA8D3;
+	color: #EAE8FF;
 	margin: auto;
 	text-align: center;
 	
 }
+/*
 a:link{
 	text-decoration: none;
 	color: #EAE8FF;
@@ -65,6 +67,7 @@ a:visited{
 	text-decoration: none;
 	color: #EAE8FF;
 }
+*/
 img{
 	padding: 10px;
 	margin:auto;
@@ -100,6 +103,11 @@ img{
 	padding-top: 10px;
 	margin: auto;
 	text-align: center;
+}
+
+.clickable{
+	text-decoration: none;
+	color: #74dbd9;	
 }
 
 figure{
