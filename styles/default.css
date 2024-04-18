@@ -87,10 +87,9 @@ img{
 	margin: auto;
 	text-align: left;
 }
-.alignLeftMain{
+.paddTop{
 	padding-top: 10px;
 	margin: auto;
-	text-align: left;
 }
 .alignLeftIndex{
 	padding-left: 40px;
@@ -120,6 +119,7 @@ figure{
 figcaption{
 	text-align: center;
 	margin: auto;
+	font-style: italic;
 }
 footer{
 	background-color: #1B4965;
