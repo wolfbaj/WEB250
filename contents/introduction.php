@@ -1,6 +1,6 @@
 <figure>
 	<img src="images/kingsmountainphoto.jpg" alt="profile picture">
-	<figcaption> family photo of me at Kings Mountain </figcaption>
+	<figcaption>At Kings Mountain</figcaption>
 </figure>
 
 <ul>
